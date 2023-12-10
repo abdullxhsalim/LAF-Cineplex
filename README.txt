@@ -1,1 +1,1 @@
-You have to login as admin to see the admin functionalities properly. Same goes for user.
+Follow the on-screen instructions to register as admin or user.
